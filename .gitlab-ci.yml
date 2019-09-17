@@ -1,0 +1,3 @@
+git remote add heroku https://heroku:$HEROKU_API_KEY@git.heroku.com/byebyebot.git
+
+git push -f heroku master
